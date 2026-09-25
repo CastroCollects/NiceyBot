@@ -1,0 +1,17 @@
+{
+  "name": "niceybot",
+  "version": "1.0.0",
+  "description": "Twitch chat bot that answers sports card checklist/odds questions",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
