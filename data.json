@@ -1,0 +1,13 @@
+{
+  "_readme": "This is the pre-drafted lookup sheet. Each top-level key is a command word (after the !), each entry inside it is matched against the text the user typed after the command. Fill this in with real answers once the checklist/odds analysis is ready.",
+
+  "odds": {
+    "test": "It works! NiceyBot is online and reading from the data sheet."
+  },
+
+  "chase": {
+  },
+
+  "1of1": {
+  }
+}
