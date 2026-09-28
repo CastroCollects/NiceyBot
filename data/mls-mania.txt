@@ -9,13 +9,13 @@ D.C. United | D.C. United (no separate player spots, Gavin Turner, Tai Baribo, W
 FC Cincinnati | FC Cincinnati (no separate player spots, Evander, Miles Robinson). Evander: 1 hit: 1 auto (Chrome Autographs). Miles Robinson: 1 hit: 1 auto (Chrome Autographs).
 FC Dallas | FC Dallas (no separate player spots, Louicius Deedson, Samuel Sarver). Louicius Deedson: 1 hit: 1 auto (Chrome Autographs). Samuel Sarver: 2 hits: 2 autos, including Renaissance Autographs.
 Houston Dynamo FC | Houston Dynamo FC (no separate player spots, Héctor Herrera, Jack McGlynn, Mateusz Bogusz). Héctor Herrera: 1 hit: 1 auto (Chrome Autographs). Jack McGlynn: 1 hit: 1 auto (Chrome Autographs). Mateusz Bogusz: 1 hit: 1 auto (Chrome Autographs).
-Inter Miami CF - Lionel Messi | Inter Miami CF - Lionel Messi has 3 hits: 3 autos, including Mania Autographs.
+Inter Miami CF - Lionel Messi | Inter Miami CF - Lionel Messi has 4 hits: 3 autos and 1 insert, including Mania Autographs.
 Inter Miami CF - Others | Inter Miami CF - Others has 8 hits combined across 7 players (hits per player: Casemiro (1), Dayne St. Clair (1), Jordi Alba (1), Luis Suárez (1), Mateo Silvetti (2), Sergio Busquets (1), Yannick Bright (1)), including Renaissance Autographs (Jordi Alba).
 LA Galaxy - David Beckham | LA Galaxy - David Beckham has 3 hits: 3 autos, including Mania Autographs.
 LA Galaxy - Zlatan Ibrahimović | LA Galaxy - Zlatan Ibrahimović has 3 hits: 3 autos, including Mania Autographs.
-LA Galaxy - Others | LA Galaxy - Others has 8 hits combined across 6 players (hits per player: Alexi Lalas (1), Cobi Jones (1), Joseph Paintsil (1), Marco Reus (2), Rubén Ramos Jr. (1), Steven Gerrard (2)), including MLS All-Timers Autographs (Alexi Lalas).
+LA Galaxy - Others | LA Galaxy - Others has 9 hits combined across 6 players (hits per player: Alexi Lalas (1), Cobi Jones (1), Joseph Paintsil (1), Marco Reus (3), Rubén Ramos Jr. (1), Steven Gerrard (2)), including Chrome Anime (Marco Reus).
 LA FC - Gareth Bale | LA FC - Gareth Bale has 2 hits: 2 autos, including MLS All-Timers Autographs.
-LA FC - Others | LA FC - Others has 5 hits combined across 5 players (hits per player: Denis Bouanga (1), Giorgio Chiellini (1), Hugo Lloris (1), Jude Terry (1), Son Heung-Min (1)), including MLS All-Timers Autographs (Giorgio Chiellini).
+LA FC - Others | LA FC - Others has 6 hits combined across 5 players (hits per player: Denis Bouanga (1), Giorgio Chiellini (1), Hugo Lloris (1), Jude Terry (1), Son Heung-Min (2)), including Chrome Anime (Son Heung-Min).
 Minnesota United FC | Minnesota United FC (no separate player spots, James Rodríguez, Kelvin Yeboah). James Rodríguez: 1 hit: 1 auto (Chrome Autographs). Kelvin Yeboah: 1 hit: 1 auto (Chrome Autographs).
 CF Montreal | CF Montreal (no separate player spots, Hennadii Synchuk, Olger Escobar). Hennadii Synchuk: 2 hits: 2 autos, including Renaissance Autographs. Olger Escobar: 1 hit: 1 auto (Chrome Autographs).
 Nashville SC | Nashville SC (no separate player spots, Cristian Espinoza, Hany Mukhtar). Cristian Espinoza: 1 hit: 1 auto (Chrome Autographs). Hany Mukhtar: 1 hit: 1 auto (Chrome Autographs).
@@ -26,7 +26,7 @@ New York Red Bulls - Thierry Henry | New York Red Bulls - Thierry Henry has 3 hi
 New York City FC - Andrea Pirlo + David Villa | Andrea Pirlo: 2 hits: 2 autos, including MLS All-Timers Autographs. David Villa: 2 hits: 2 autos, including MLS All-Timers Autographs.
 New York City FC - Others | New York City FC - Others has 4 hits combined across 4 players (hits per player: Frank Lampard (1), Maxi Moralez (1), Máximo Carrizo (1), Talles Magno (1)), including Renaissance Autographs (Frank Lampard).
 Orlando City SC | Orlando City SC (no separate player spots) has 6 hits combined across 5 players (hits per player: Antoine Griezmann (1), Justin Ellis (1), Kaká (2), Martín Ojeda (1), Nani (1)), including MLS All-Timers Autographs (Kaká).
-Philadelphia Union - Cavan Sullivan | Philadelphia Union - Cavan Sullivan has 1 hit: 1 auto (Chrome Autographs).
+Philadelphia Union - Cavan Sullivan | Philadelphia Union - Cavan Sullivan has 2 hits: 1 auto and 1 insert, including Chrome Anime.
 Philadelphia Union - Others | Philadelphia Union - Others (Ezekiel Alladoh). Ezekiel Alladoh: 1 hit: 1 auto (Chrome Autographs).
 Portland Timbers | Portland Timbers (no separate player spots, Eric Izoita). Eric Izoita: 1 hit: 1 auto (Chrome Autographs).
 Real Salt Lake | Real Salt Lake (no separate player spots, Diego Luna, Morgan Guilavogui, Zavier Gozo). Diego Luna: 1 hit: 1 auto (Chrome Autographs). Morgan Guilavogui: 1 hit: 1 auto (Chrome Autographs). Zavier Gozo: 1 hit: 1 auto (Chrome Autographs).
@@ -36,4 +36,4 @@ Seattle Sounders FC | Seattle Sounders FC (no separate player spots, Clint Demps
 Sporting Kansas City | Sporting Kansas City (no separate player spots, Dejan Joveljić). Dejan Joveljić: 1 hit: 1 auto (Chrome Autographs).
 St Louis City SC | St Louis City SC (no separate player spots, Marcel Hartel). Marcel Hartel: 1 hit: 1 auto (Chrome Autographs).
 Toronto FC | Toronto FC (no separate player spots) has 4 hits combined across 4 players (hits per player: Derrick Etienne Jr. (1), Jonathan Osorio (1), Josh Sargent (1), Walker Zimmerman (1)), including Chrome Autographs (Derrick Etienne Jr.).
-Vancouver Whitecaps FC | Vancouver Whitecaps FC (no separate player spots, Rayan Elloumi, Sebastian Berhalter, Thomas Müller). Rayan Elloumi: 1 hit: 1 auto (Chrome Autographs). Sebastian Berhalter: 1 hit: 1 auto (Renaissance Autographs). Thomas Müller: 1 hit: 1 auto (Chrome Autographs).
+Vancouver Whitecaps FC | Vancouver Whitecaps FC (no separate player spots, Rayan Elloumi, Sebastian Berhalter, Thomas Müller). Rayan Elloumi: 1 hit: 1 auto (Chrome Autographs). Sebastian Berhalter: 1 hit: 1 auto (Renaissance Autographs). Thomas Müller: 2 hits: 1 auto and 1 insert, including Chrome Anime.
